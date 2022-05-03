@@ -38,5 +38,7 @@ Desatándose así una batalla feroz y árdua donde finalmente gracias a la capac
 - [x] Harry Potter y el cáliz de fuego
 - [x] Harry Potter y la Orden del Fénix
 - [x] Harry Potter y el misterio del príncipe mestizo
-- [x] Harry POtter y Las reliquias de la muerte pt.1 
-- [x] Harry POtter y Las reliquias de la muerte pt.2 
+- [x] Harry Potter y Las reliquias de la muerte pt.1 
+- [x] Harry Potter y Las reliquias de la muerte pt.2 
+
+# Mención a un compañero
