@@ -42,3 +42,4 @@ Desatándose así una batalla feroz y árdua donde finalmente gracias a la capac
 - [x] Harry Potter y Las reliquias de la muerte pt.2 
 
 # Mención a un compañero
+@EstuardoVasquez/qué pensas de esto?
