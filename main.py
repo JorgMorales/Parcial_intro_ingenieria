@@ -14,3 +14,4 @@ if animal != "Oso polar":
 if animal == "Oso polar":
     print("A mí también me gustan los osos polares")
     
+    
