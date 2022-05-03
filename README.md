@@ -31,3 +31,12 @@ Desatándose así una batalla feroz y árdua donde finalmente gracias a la capac
 - Tom Felton (Draco Malfoy)
 ![Draco](https://static.wikia.nocookie.net/esharrypotter/images/4/4b/Tom-Felton.jpg/revision/latest/top-crop/width/360/height/450?cb=20150218201258)
 
+### Películas que he visto
+- [] Harry Potter y la piedra filosofal
+- [] Harry Potter y la cámara secreta
+- [] Harry Potter y el prisionero de Azkaban
+- [] Harry Potter y el cáliz de fuego
+- [] Harry Potter y la Orden del Fénix
+- [] Harry Potter y el misterio del príncipe mestizo
+- [] Harry POtter y Las reliquias de la muerte pt.1 
+- [] Harry POtter y Las reliquias de la muerte pt.2 
