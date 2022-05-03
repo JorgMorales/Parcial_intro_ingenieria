@@ -9,3 +9,4 @@ Harry Potter es un niño huerfano quien fue dejado en ese estado tras haber perd
 
 Con el pasar del tiempo Harry ya era un niño quien pudo iniciar con distintas etapas en donde descubriría algunos de los principales secretos o puntos de origen de el mismo, siendo como durante una mañana de un frio otoño, Harry recibió la visita de una lechuza quien le entregaría una carta de invitación para el colegio de magos y hechicería "Hogwarts" donde gran parte de la vida de nuestro protagonista se desarrolla.
 
+![Imagen Harry Potter](https://estaticos-cdn.elperiodico.com/clip/33396eaa-b316-4679-952d-a1a8b00064af_alta-libre-aspect-ratio_default_0.jpg)
