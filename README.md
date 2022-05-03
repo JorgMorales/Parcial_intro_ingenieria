@@ -41,5 +41,11 @@ Desatándose así una batalla feroz y árdua donde finalmente gracias a la capac
 - [x] Harry Potter y Las reliquias de la muerte pt.1 
 - [x] Harry Potter y Las reliquias de la muerte pt.2 
 
+##### imagenes de algunas películas
+![1](https://static.wikia.nocookie.net/doblaje/images/0/0d/Harry_Potter_y_el_Prisionero_de_Azkaban.jpg/revision/latest?cb=20100430200943&path-prefix=es)
+
+![2](https://static.cinepolis.com/resources/mx/movies/posters/414x603/4502-540916-20210121043518.jpg)
+
 # Mención a un compañero
-@EstuardoVasquez/qué pensas de esto?
+@github/EstuardoVasquez
+
